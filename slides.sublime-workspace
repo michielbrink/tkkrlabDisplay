@@ -23,8 +23,8 @@
 			"file": "slides/slide2.html",
 			"settings":
 			{
-				"buffer_size": 5,
-				"line_ending": "Unix"
+				"buffer_size": 109,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -458,15 +458,15 @@
 					"file": "slides/slide2.html",
 					"settings":
 					{
-						"buffer_size": 5,
+						"buffer_size": 109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
-								5
+								0,
+								0
 							]
 						],
 						"settings":
