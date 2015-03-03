@@ -27,12 +27,12 @@
 					xmlhttp.send(null);
 
 				    replaceIframeURL('myIframe', 'slides/slide' + slideNumber + '.html'); 
-				    setTimeout('delayer()', 1000);
+				    setTimeout('delayer()', 10000);
 				}
 			//-->
 		</script>
 	</head>
-	<body onLoad="setTimeout('delayer()', 1000)">
+	<body onLoad="setTimeout('delayer()', 10000)">
 
 		<iframe src="slides/slide1.html" scrolling="auto" allowtransparency="true" name="myIframe" style="border:0;width:100%;height:100%;background-image:url(backgrounds/black_one.jpg)"> </iframe>
 
